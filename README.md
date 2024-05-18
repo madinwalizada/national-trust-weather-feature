@@ -16,3 +16,24 @@ This feature integrates real-time weather information into the National Trust we
 
 - **JavaScript:** The feature uses JavaScript to fetch and render the weather data.
 
+## Installation
+
+To run the Weather Website App locally, follow these steps:
+
+1. Clone this repository to your local machine:
+``
+git clone https://github.com/madinwalizada/national-trust-weather-feature.git
+``
+2. Navigate to the project directory:
+``
+cd national-trust-weather-feature
+``
+3. Open the `script.js` file in your preferred web editor.
+
+## Usage
+
+After integrating the Weather Feature, the weather information will automatically be displayed on National Trust website.
+
+
+## Credits
+This Weather Feature was created by Madina Walizada.
