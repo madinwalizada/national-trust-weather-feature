@@ -1,2 +1,18 @@
-# national-trust-weather-feature
-This feature integrates real-time weather information into the National Trust website, enhancing visitor experience by providing up-to-date weather conditions at a specific location.
+# Weather Feature for National Trust Website
+
+This feature integrates real-time weather information into the National Trust website, enhancing visitor experience by providing up-to-date weather conditions at a specific location. The feature fetches weather data such as temperature, weather description, humidity, wind speed, and visibility, displaying it in a user-friendly format.
+
+## Features
+
+- **Date Display:** Shows the date of the weather forecast in a UK format (e.g., "23 May 2024").
+- **Current Temperature:** Displays the current temperature in bold for easy visibility.
+- **Weather Description:** Provides a brief description of the weather (e.g., "clear sky") next to the temperature.
+- **High and Low Temperatures:** Shows the expected high and low temperatures for the day.
+- **Visibility and Humidity** Provides information on visibility and humidity levels, displayed side by side for easy comparison.
+- **Wind Speed:** Indicates the wind speed to help visitors plan accordingly.
+
+
+## Technologies Used
+
+- **JavaScript:** The feature uses JavaScript to fetch and render the weather data.
+
